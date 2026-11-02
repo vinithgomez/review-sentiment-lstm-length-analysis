@@ -1,0 +1,48 @@
+- **short** | 21 tokens | true=pos | P(pos)=0.11 | baseline predicted neg | truncated=False
+  > this product has stopped my dizzy spells and decreased the ringing in my ears. you should use it for 2 months.
+
+- **short** | 48 tokens | true=neg | P(pos)=0.97 | baseline predicted pos | truncated=False
+  > I am a big Philosophy fan.I have bought the best facial cleanser ever from them(Purity).I have two other fragrances that I bought scent unsmelled, from them. Amazing Grace is lovely and Pure Grace is tremendous. Get them. Don't buy Falling in Love. It's yucky.
+
+- **short** | 29 tokens | true=pos | P(pos)=0.43 | baseline predicted neg | truncated=False
+  > If you have not watched this DVD or read the book, you are missing out! Believe and you shall receive! Your desires are controlled by you!
+
+- **short** | 24 tokens | true=neg | P(pos)=0.90 | baseline predicted neg | truncated=False
+  > REally thought this was a collection of comic books. It ended up being a cartoon DVD. I am keeping it because it was inexpensive.
+
+- **short** | 36 tokens | true=neg | P(pos)=0.81 | baseline predicted pos | truncated=False
+  > This is a very...book and the questions are so easy and simple. It might be ok if you are in the 500-650 range, but if you want more, go for Kaplan and Princeton Review.
+
+- **short** | 42 tokens | true=neg | P(pos)=0.57 | baseline predicted pos | truncated=False
+  > I thought this would be a comprehensive overview of LA area private schools. However, it does not cover the South Bay area (beach cities + Torrance + Palos Verdes), which is what I need. Probably great if you live between Santa Monica and Glendale.
+
+- **short** | 39 tokens | true=pos | P(pos)=0.05 | baseline predicted neg | truncated=False
+  > it is well built. i used it extensively without problem. its voltage is only 95V however. when i try to return it for this poor voltage, amazon does not allow me. it is somehow put into flammable category.
+
+- **short** | 30 tokens | true=neg | P(pos)=0.77 | baseline predicted neg | truncated=False
+  > In this "improved" set up, you have to hold the roller in your right hand, unlike the previous design, which was usable for both right handed and left handed people.
+
+- **long** | 103 tokens | true=neg | P(pos)=0.57 | baseline predicted neg | truncated=False
+  > S.P. Somtow writes wonderful short stories and I can easily recommend them. His novel "Jasmine Nights" is very well written, extremely entertaining and on my list for one of the best books I read last year.Unfortunately "Vanitas" was a bit tough for me to get through. I don't think the author spent much time editing this book and in the end, I was to the point of not caring what happened.I was looking forward to enjoying this book, but I didn't. Save your time and skip this one but DO read "Jasmine Nights" - you will not be sorry.
+
+- **long** | 102 tokens | true=pos | P(pos)=0.25 | baseline predicted pos | truncated=False
+  > never listened to Ryan Adams before this cd. never heard of Gold or the NY song (till getting Cold Roses then digging deeper)--been off the radio for a while now. simply came across his web site kinda on a fluke and 'let it ride' started to play. i don't know why, but it put its hooks in me then and hasn't let go. love the diversity of the album--don't care if all songs are in the same genre or not--just give me great songs! Cold Roses does. Over and over. Thanks Ryan. You too Cardinals.
+
+- **long** | 156 tokens | true=neg | P(pos)=0.55 | baseline predicted neg | truncated=False
+  > If you want an ice crusher - this is it. It can crush ice without any liquid at any speed. However, if you want a smooth texture, this will not do the job. I mainly use blenders for smoothies and to puree soup. Because of the blunt blade and wide bottom - it will not emulsify no matter how long you run it. When I made my smoothie, I ran it longer to see if it would become a creamy consistency (like I would get from my other blender) but it just made the ingredients warm. Another problem is that it doensn't handle single portions well. It splashes all over the jar making it impossible to add ingredients without getting it in your hair and making it necessary to scrape the sides. I returned it
+
+- **long** | 109 tokens | true=neg | P(pos)=0.86 | baseline predicted neg | truncated=False
+  > The book 'get tough' truly has balls to the walls techniques - direct and brutal. However, readers should note that this is not the complete hand to hand combat manual that this gentleman published. Some techniques and procedures are actually missing from this "compilation."Secondly, although the techniques are direct and brutal they are limited only to techniques that are executed (1) with combat uniforms (fatigues, boots etc.), (2) standing upright and (3) against one opponent always. In the today's world these techniques may have their shortfalls.The book is good for reference purpose (history maybe) and is not the be all and end all of hand to hand fighting.
+
+- **long** | 136 tokens | true=pos | P(pos)=0.44 | baseline predicted pos | truncated=False
+  > After meeting Jack Oran in 1994, I read the book of his experiences during the holocaust and after. I recommend it to anyone who is interested in reading a first-hand account of months in a prison camp, on the death march and piecing together a life after the war. There were days when I couldn't put it down and others when I could only read short passages. The message that this man brngs to us is that prejudice in any form is wrong and dangerous. This was the first book I had read about the holocaust. Each year I take a student group to the Holocaust Museum in Houston so that they might better understand the history they learn in textbooks. I am ordering two more copies to loan to my student
+
+- **long** | 141 tokens | true=pos | P(pos)=0.34 | baseline predicted pos | truncated=False
+  > Evokes the color and atmosphere of the fight game in post WWII San Francisco from a "roman noir" perspective. Tough dames, wise cracking reporter, hard luck fighter and a host of streetwise characters. Muller reproduces the jargon of the era with an expert ear. The language, description and characterizatons are worth the price of admission. The story gets off to a terrific start, then the pace falters until the action is revitalized at the end. As the mystery and doublecrosses are unraveled, plot credability weakens and the reader becomes aware of the author's strained attempt to clean up messy loose ends. The little stories spun within the novel enhance the characters and entertain the read
+
+- **long** | 120 tokens | true=pos | P(pos)=0.42 | baseline predicted pos | truncated=False
+  > I have owned already many digital cameras from so-so to high-end kinds; from Minolta Dimage S414 to latest Canon Xt. Ofcourse there are pros and cons for every single one of them. However, for the price I paid and the quality that I received - I am very very impressed by this Fuji V10. For those who loves to complain about the low light environment, go ahead to buy something else that you think it's better; I bet that you will regret to waste your hard earned money down the drain for getting the similar type of blurry, grainy, yellowish image results...I spent $450.00 for the Canon SD900 for my gf as Xmas gift
+
+- **long** | 129 tokens | true=pos | P(pos)=0.36 | baseline predicted pos | truncated=False
+  > This was the best film of 2001 I saw this in Branson last summer with my sister and mom and she had to buy the soundtrack right away but what next? how about a sequel? according to upcomingmovies.com and comingsoon.net the cast hasn't got a sequel signed yet but I hope they get it filmed this December for a August 2003 release in but the little plot that I've been rumored about is that Mia will be going to college. I really hope they don't replace Anne Hathaway with Christina Ricci no that won't happen, will it? anyways there is a possibility of a sequel but in the mean time enjoy the first one and have hopes for a sequel....
+

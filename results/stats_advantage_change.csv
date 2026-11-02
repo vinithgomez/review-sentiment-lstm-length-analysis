@@ -1,0 +1,2 @@
+main,base,advantage_short,advantage_long,change_long_minus_short,ci_low,ci_high
+lstm_glove,tfidf_lr,0.0056932350971198925,-0.017666666666666667,-0.02335990176378656,-0.039769239785666446,-0.007312977227059612
