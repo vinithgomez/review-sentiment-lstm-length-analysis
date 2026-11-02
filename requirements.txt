@@ -1,0 +1,17 @@
+# Tested with Python 3.14 on Windows (CPU only)
+# torch is installed from the CPU wheel index:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+scikit-learn==1.9.1
+pandas==3.1.0
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+nltk==3.10.4
+datasets==5.1.0
+huggingface_hub
+# only for building/executing the notebook
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0

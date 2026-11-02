@@ -1,0 +1,33 @@
+# Environments / secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data, GloVe, checkpoints (downloaded / regenerated automatically)
+data/
+glove*.zip
+glove*.txt
+*.pt
+*.pth
+models/
+runs/
+
+# Never commit very large files (>50 MB)
+*.zip
+*.npy
+*.bin
